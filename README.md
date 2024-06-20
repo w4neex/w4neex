@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/w4neex?ext=heatmap)](https://leetcode.com/w4neex)
+
 <!--
 **w4neex/w4neex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
